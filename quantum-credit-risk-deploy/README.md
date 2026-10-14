@@ -40,3 +40,5 @@ The first startup downloads the dataset and trains the models. It can take a few
 - The notebook uses a small 150/50 training/test subset for quantum simulation. Metrics can vary if quantum optimization is stochastic or package behavior differs.
 - The dashboard is an academic prototype, not financial advice or a production credit-underwriting service. Do not use it as the sole basis for lending decisions.
 - The manual-input demo has only a subset of the German Credit fields; unprovided categorical features are set to the all-zero baseline of the notebook's one-hot encoding. A production system should collect all required features and validate its preprocessing carefully.
+
+# VIEW APP AT : https://tw4hjy9rtahikok8fz5gh8.streamlit.app/
